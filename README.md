@@ -60,4 +60,6 @@ Abre el archivo de solución del proyecto (`.sln`) en Visual Studio y ejecuta la
 
 ## Captura
 
+![Boletín de calificaciones](./boletin_calificaciones.png)
+
 
