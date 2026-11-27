@@ -1,3 +1,6 @@
+Vianca Liza Maldonado Mejia
+Matricula 2025-3294
+
 # Boletín de Calificaciones
 
 Aplicación de escritorio de Windows Forms en C# para registrar las calificaciones de un estudiante, calcular promedios y mostrar su situación académica.
@@ -54,4 +57,7 @@ El formulario organiza los controles de entrada, registro y resumen en grupos. L
 ## Ejecución
 
 Abre el archivo de solución del proyecto (`.sln`) en Visual Studio y ejecuta la aplicación. El proyecto debe estar configurado como Windows Forms para la versión de .NET instalada en el equipo.
+
+## Captura
+
 
